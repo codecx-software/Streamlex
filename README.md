@@ -47,9 +47,10 @@ Welcome to Streamlex, the one-stop destination that brings you a world of movies
 
 ## Screenshots 
 
-![Screen1](https://github.com/codecx-software/Streamlex/assets/101052048/d32eb281-230b-4b2a-a994-c24909d088c4)
-![Screen2](https://github.com/codecx-software/Streamlex/assets/101052048/5c7751ef-8d04-480a-a868-f0bfb9a0145a)
-![Screen3](https://github.com/codecx-software/Streamlex/assets/101052048/21d02d34-216d-4848-ba74-33aebac49637)
+![Screen1](https://github.com/codecx-software/Streamlex/assets/101052048/a065c8b8-98e7-4a49-82e5-1af6b8908d3b)
+![Screen2](https://github.com/codecx-software/Streamlex/assets/101052048/db14839b-7ddc-414a-b14f-e10b4c242028)
+![Screen3](https://github.com/codecx-software/Streamlex/assets/101052048/7be14d48-d35b-4cf5-a004-3d843eb3e7e2)
+
 
 ## Installation
 
