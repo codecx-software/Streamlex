@@ -1,6 +1,6 @@
 # Streamlex 
 
-![Thumbnail for STreamlex](https://github.com/codecx-software/Streamlex/assets/101052048/25fdee96-2ec2-4cda-8bb8-dfb9625744c8)
+![Thumbnail for STreamlex](https://github.com/codecx-software/Streamlex/assets/101052048/a39c059d-ca62-40cf-b5d3-8003308dfc20)
 
 
 ## Description
